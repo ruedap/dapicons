@@ -20,7 +20,7 @@
   -webkit-font-smoothing: antialiased;
 }
 
-.icon-ruedap, .icon-ruedap-black, .icon-twitter, .icon-github, .icon-mail, .icon-feed, .icon-gift, .icon-refresh, .icon-spinner, .icon-spinner-2, .icon-spinner-3, .icon-angle-right, .icon-double-angle-right, .icon-caret-right, .icon-tags {
+.icon-ruedap, .icon-ruedap-black, .icon-twitter, .icon-github, .icon-mail, .icon-feed, .icon-gift, .icon-refresh, .icon-spinner, .icon-spinner-2, .icon-spinner-3, .icon-angle-right, .icon-double-angle-right, .icon-caret-right, .icon-tags, .icon-facebook {
   font-family: 'dapicons';
   speak: none;
   font-style: normal;
@@ -74,4 +74,7 @@
 }
 .icon-tags:before {
   content: "\f02c";
+}
+.icon-facebook:before {
+  content: "\66";
 }
